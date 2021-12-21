@@ -14,4 +14,5 @@ Reusable business code, no need for duplication. Use existing business objects a
 
 
 ### Salma Hashem's Comment on Article
+
 ##### This is an interesting article on a sopftware advancement that I am not too familiar with. This new Spring Web MVC framework is very flecible and provides a clean division between controllers, and JavaBean models and views. It's a powerful frameworm unlike the older ones as it is more testable and is well defined.
