@@ -11,3 +11,8 @@ Powerful and straightforward configuration of both framework and application cla
 Adaptability, non-intrusiveness, and flexibility. Define any controller method signature you need, possibly using one of the parameter annotations (such as @RequestParam, @RequestHeader, @PathVariable, and more) for a given scenario.
 
 Reusable business code, no need for duplication. Use existing business objects as command or form objects instead of mirroring them to extend a particular framework base class.
+
+
+### Salma Hashem's Comment on Article
+
+##### This is an interesting article on a sopftware advancement that I am not too familiar with. This new Spring Web MVC framework is very flecible and provides a clean division between controllers, and JavaBean models and views. It's a powerful frameworm unlike the older ones as it is more testable and is well defined.
